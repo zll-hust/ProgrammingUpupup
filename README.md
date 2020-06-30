@@ -10,14 +10,6 @@ Programming learning in 2020 summer
 
 具体内容参见博客：[zll-hust](https://blog.csdn.net/zll_hust)
 
-Day1:
-
-[A-B](https://blog.csdn.net/zll_hust/article/details/106989299)
-
-[C-D](https://blog.csdn.net/zll_hust/article/details/107008236)
-
-[E-G](https://blog.csdn.net/zll_hust/article/details/107018752)
-
-[H-L](https://blog.csdn.net/zll_hust/article/details/107043441)
+Day1: [A-B](https://blog.csdn.net/zll_hust/article/details/106989299) , [C-D](https://blog.csdn.net/zll_hust/article/details/107008236) , [E-G](https://blog.csdn.net/zll_hust/article/details/107018752) , [H-L](https://blog.csdn.net/zll_hust/article/details/107043441)
 
 不断更新！Upupup！
