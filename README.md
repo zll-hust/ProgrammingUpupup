@@ -18,4 +18,6 @@ Day2：[A-C](https://blog.csdn.net/zll_hust/article/details/107115733), [D-J](ht
 
 读书笔记：[第三章](https://blog.csdn.net/zll_hust/article/details/107075387), [第五章](https://blog.csdn.net/zll_hust/article/details/107115733)
 
+紫书刷题笔记：[5-1——5-5](https://blog.csdn.net/zll_hust/article/details/107215908)
+
 不断更新！Upupup！
