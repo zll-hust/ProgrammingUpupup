@@ -14,9 +14,11 @@ Day1: [A-B](https://blog.csdn.net/zll_hust/article/details/106989299) , [C-D](ht
 
 Day2: [A-C](https://blog.csdn.net/zll_hust/article/details/107115733), [D-J](https://blog.csdn.net/zll_hust/article/details/107161992), [K-O](https://blog.csdn.net/zll_hust/article/details/107179040)
 
+Day5: [A-F](https://blog.csdn.net/zll_hust/article/details/107369658)
+
 Day9: [A-J](https://blog.csdn.net/zll_hust/article/details/107300864)
 
-课堂笔记：[第二讲-模拟与暴力](https://blog.csdn.net/zll_hust/article/details/107085995), [第九讲-DFS&BFS&图](https://blog.csdn.net/zll_hust/article/details/107300864)
+课堂笔记：[第二讲-模拟与暴力](https://blog.csdn.net/zll_hust/article/details/107085995), [第九讲-DFS&BFS&图](https://blog.csdn.net/zll_hust/article/details/107300864), [第十讲-拓扑排序&最短路](https://blog.csdn.net/zll_hust/article/details/107369658)
 
 读书笔记：[第三章](https://blog.csdn.net/zll_hust/article/details/107075387), [第五章](https://blog.csdn.net/zll_hust/article/details/107115733)
 
